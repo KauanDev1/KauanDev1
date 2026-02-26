@@ -1,6 +1,6 @@
 # KauanDev1 - 👋 Sobre mim 
 
-## 🧑‍💻 Me chamo Kauan<br><br> 🏫 Estudo no IFRO (Instituto Federal de Rondônia)<br><br> 💻 Faço o curso Técnico em Informática<br><br> 🚀 Sou apaixonado por tecnologia e computação <br><br>📚 Gosto de sempre estar aprendendo coisas novas <br><br> 🔧 Curioso por programação, redes e desenvolvimento <br><br>☕ Viciado em café e código <br><br>:)<br><br>  
+## 🧑‍💻 Me chamo Kauan.<br><br> 🏫 Instituto Federal de Rondônia.<br><br> 💻 Cursando Analise e Desenvolvimento de Sistemas.<br><br> 🚀 Sou apaixonado por tecnologia e computação. <br><br>📚 Gosto de sempre estar aprendendo coisas novas <br><br> 🔧 Curioso por programação, redes e desenvolvimento. <br><br>☕ Viciado em café e código. <br><br>:)<br><br>  
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
