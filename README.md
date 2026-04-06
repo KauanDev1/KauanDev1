@@ -33,35 +33,28 @@ Busco evoluir, atualmente me encontro aprimorando meus conhecimentos em python, 
 <!--                    ABOUT ME                                    -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Sobre Mim
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">  About Me
 </h2>
 
 ```yaml
-name: Eduardo de Souza
+name: Kauan Turcato Storto
 located_in: Brasil
-current_focus: Mobile Development (Flutter/Dart)
-website: https://eduardoalves.online
-
-education:
-  - "Desenvolvedor Full Stack"
-  - "Especialista Mobile (Flutter)"
+current_focus: Web development
 
 fields_of_interest:
-  - "Mobile Development"
   - "Web Development"
-  - "IoT & Embedded Systems"
-  - "Game Development"
-  - "Cloud & BaaS"
+  - "Cybersecurity"
+  - "computer network"
 
 currently_learning:
-  - "Clean Architecture & Advanced Patterns"
-  - "Wi-Fi Direct, Bluetooth & Hotspot"
-  - "Real-time Sync & Rendering Optimization"
+  - "New frameworks"
+  - "Cybersecurity"
+  - "Servers and Network"
 
 hobbies:
-  - "Coding side projects"
   - "Gaming & Game Dev"
   - "Exploring new technologies"
+  - "Sports"
 ```
 
 <br/>
@@ -72,30 +65,23 @@ hobbies:
 </p>
 
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack and Tools
+</h2>
 
-<h2>Conhecimentos</h2>
 
-<ul>
-  <li>Python</li>
-  <li>HTML básico</li>
-  <li>CSS básico</li>
-  <li>Figma básico</li>
-  <li>n8n</li>
-  <li>WordPress | Elementor</li>
-</ul>
-
----
-
-<h2>Objetivo</h2>
-
-<p>
-  Busco aprender mais sobre desenvolvimento e evoluir cada vez mais na área da tecnologia.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,java,css,html,linux,figma,wordpress" />
+  </a>
 </p>
 
----
+<h2 align="center">
+  Things I am in the process of learning/am learning
+</h2>
 
-<h2>Contato</h2>
-
-<p>
-  <a href="https://github.com/KauanDev1">GitHub</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,js,ts,flask,dart,flutter,react,kali" />
+  </a>
 </p>
