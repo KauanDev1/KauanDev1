@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Kauan 👋</h1>
 
 <p align="center">
-  Estudante de ADS no IFRO
+  Análise e Desenvolvimento de Sistema - Instituto Federal
 </p>
 
 ---
@@ -11,6 +11,8 @@
 <p>
   Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFRO.
   Estou aprendendo programação e desenvolvendo meus conhecimentos na área de tecnologia.
+
+  Busco evoluir, atualmente me encontro aprimorando meus conhecimentos em python, estudando frameworks como fastAPI e Django.
 </p>
 
 ---
@@ -22,6 +24,8 @@
   <li>HTML básico</li>
   <li>CSS básico</li>
   <li>Figma básico</li>
+  <li>n8n</li>
+  <li>WordPress | Elementor</li>
 </ul>
 
 ---
@@ -37,5 +41,5 @@
 <h2>Contato</h2>
 
 <p>
-  <a href="https://github.com/SEU-USUARIO">GitHub</a>
+  <a href="https://github.com/KauanDev1">GitHub</a>
 </p>
