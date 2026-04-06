@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kauan%20&section=header&fontAlign=50&desc=Full%20Stack&descAlign=50&textBg=false&reversal=false
+
 <h1 align="center">Olá, eu sou Kauan 👋</h1>
 
 <p align="center">
