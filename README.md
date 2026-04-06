@@ -1,20 +1,41 @@
-# KauanDev1 - 👋 Sobre mim 
+<h1 align="center">Olá, eu sou Kauan 👋</h1>
 
-## 🧑‍💻 Me chamo Kauan.<br><br> 🏫 Instituto Federal de Rondônia.<br><br> 💻 Cursando Analise e Desenvolvimento de Sistemas.<br><br> 🚀 Sou apaixonado por tecnologia e computação. <br><br>📚 Gosto de sempre estar aprendendo coisas novas <br><br> 🔧 Curioso por programação, redes e desenvolvimento. <br><br>☕ Viciado em café e código. <br><br>:)<br><br>  
+<p align="center">
+  Estudante de ADS no IFRO
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
-  
-  ##
+---
 
+<h2>Sobre mim</h2>
 
-<div> 
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/kauan-turcato-storto-134237278/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p>
+  Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFRO.
+  Estou aprendendo programação e desenvolvendo meus conhecimentos na área de tecnologia.
+</p>
+
+---
+
+<h2>Conhecimentos</h2>
+
+<ul>
+  <li>Python</li>
+  <li>HTML básico</li>
+  <li>CSS básico</li>
+  <li>Figma básico</li>
+</ul>
+
+---
+
+<h2>Objetivo</h2>
+
+<p>
+  Busco aprender mais sobre desenvolvimento e evoluir cada vez mais na área da tecnologia.
+</p>
+
+---
+
+<h2>Contato</h2>
+
+<p>
+  <a href="https://github.com/SEU-USUARIO">GitHub</a>
+</p>
