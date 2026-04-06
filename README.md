@@ -129,4 +129,6 @@ hobbies:
   </a>
 </p>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3D8EFF,100:0013FF&text=👋&section=footer&fontColor=FFFFFF&fontAlign=50&descAlign=50&textBg=false&reversal=false&descAlignY=64">
+</p>
