@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kauan%20&section=header&fontAlign=50&desc=Full%20Stack&descAlign=50&textBg=false&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3D8EFF,100:0013FF&text=Kauan%20&section=header&fontAlign=50&desc=Full%20Stack&descAlign=50&textBg=false&reversal=false">
 </p>
 <h1 align="center">Olá, eu sou Kauan 👋</h1>
 
