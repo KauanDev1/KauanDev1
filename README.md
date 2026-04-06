@@ -85,3 +85,48 @@ hobbies:
     <img src="https://skillicons.dev/icons?i=django,nodejs,js,ts,flask,dart,flutter,react,kali" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<h2 align="center">
+  <img src="https://img.icons8.com/emoji/24/snake-emoji.png" width="22"/> My Contributions
+</h2>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoSA8006/EduardoSA8006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoSA8006/EduardoSA8006/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/EduardoSA8006/EduardoSA8006/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<h2>
+  Talk to me 😁
+</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/kauantrct">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:kauanturcato@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://br.linkedin.com/in/kauan-turcato-storto-134237278">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
