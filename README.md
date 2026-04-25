@@ -72,19 +72,11 @@ hobbies:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,css,html,linux,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,python,css,html,figma,wordpress" />
   </a>
 </p>
 
-<h2 align="center">
-  Things I am in the process of learning/am learning
-</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,js,ts,flask,dart,flutter,react,kali" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
