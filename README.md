@@ -93,7 +93,6 @@ hobbies:
 <div align="center">
   <picture>
     ![snake gif](https://github.com/SEUUSER/SEUUSER/blob/output/github-snake-dark.svg)
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KauanDev1/KauanDev1/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
 
