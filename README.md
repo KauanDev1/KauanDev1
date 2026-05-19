@@ -18,6 +18,12 @@ Busco evoluir, atualmente me encontro aprimorando meus conhecimentos em python, 
 
 <br/>
 
+<p align="center">
+  <a href="https://www.kauan.online">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 </td>
 </tr>
 </table>
