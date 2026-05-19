@@ -18,11 +18,6 @@ Busco evoluir, atualmente me encontro aprimorando meus conhecimentos em python, 
 
 <br/>
 
-<p align="center">
-  <a href="https://www.kauan.online">
-    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 </td>
 </tr>
@@ -30,6 +25,12 @@ Busco evoluir, atualmente me encontro aprimorando meus conhecimentos em python, 
 </div>
 
 <br/>
+
+<p align="center">
+  <a href="https://www.kauan.online">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
