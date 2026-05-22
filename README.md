@@ -2,8 +2,8 @@
 
 💻 Desenvolvedor Back-End  
 🌐 Apaixonado por tecnologia, redes e infraestrutura  
-🐍 Estudando Python, Flask e automações  
-⚡ Explorando Linux, Docker, Wazuh e DevOps  
+🐍 Estudando de tudo. 
+⚡ Explorando Linux, Infra e DevOps  
 🚀 Sempre criando projetos e aprendendo algo novo  
 
 ---
@@ -26,27 +26,14 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Em processo de aprendizado
 
-- Flask
-- SQLAlchemy
-- TailwindCSS
-- Redes e Infraestrutura
-- Docker
-- Wazuh
+- FastAPI
+- PostgreSQL
 - DevOps
-
----
-
-## 📈 GitHub Stats
-
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanDev1&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KauanDev1&theme=tokyonight)
+- Redes e Infraestrutura
+- Ruby/On Rails
+- CyberSecurity
 
 ---
 
