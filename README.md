@@ -45,6 +45,10 @@
 
 ## 📫 Contato
 
-- 📧 Email: kauanturcato@gmail.com
-- 💼 LinkedIn: https://br.linkedin.com/in/kauan-turcato-storto-134237278
-- 💻 GitHub: https://github.com/KauanDev1
+[![Website](https://img.shields.io/badge/Website-kauan.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kauan.online)
+
+[![GitHub](https://img.shields.io/badge/GitHub-KauanDev1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauanDev1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Storto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kauan-turcato-storto-134237278)
+
+[![Email](https://img.shields.io/badge/Email-kauanturcato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanturcato@gmail.com)
