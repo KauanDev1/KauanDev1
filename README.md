@@ -3,6 +3,7 @@
 💻 Desenvolvedor Back-End  
 🌐 Apaixonado por tecnologia, redes e infraestrutura  
 🐍 Estudando de tudo. 
+
 ⚡ Explorando Linux, Infra e DevOps  
 🚀 Sempre criando projetos e aprendendo algo novo  
 
