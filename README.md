@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Kauan
 
-💻 Desenvolvedor Back-End  
+💻 Desenvolvedor de Software  
 🌐 Apaixonado por tecnologia, redes e infraestrutura  
 🐍 Estudando de tudo.  
 ⚡ Explorando Linux, Infra e DevOps  
