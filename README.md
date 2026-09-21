@@ -6,7 +6,7 @@
 ⚡ Explorando Linux, Infra e DevOps  
 🚀 Sempre criando projetos e aprendendo algo novo  
 
-
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) Vibecoder
 
 ## 🐍 Contributions Snake
 
