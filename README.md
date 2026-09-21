@@ -7,10 +7,6 @@
 🚀 Sempre criando projetos e aprendendo algo novo  
 
 
-import { ClaudeCode } from '@lobehub/icons';
-
-export default () => <ClaudeCode.Combine size={56} type={'color'}/>;
-
 ## 🐍 Contributions Snake
 
 ![snake gif](https://github.com/KauanDev1/KauanDev1/blob/output/github-snake-dark.svg)
