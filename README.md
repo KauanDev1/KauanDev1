@@ -1,4 +1,3 @@
-<img width="37" height="16" alt="claudecode-text" src="https://github.com/user-attachments/assets/0c99f007-4c16-4f98-86ef-7522931ed6fe" />
 # 👋 Olá, eu sou o Kauan
 
 💻 Desenvolvedor de Software  
