@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Kauan.
 
-I am software enthusiast and a python lover.
+I am a brazilian software enthusiast and a python lover.
 
 ## 🐍 Contributions Snake
 
