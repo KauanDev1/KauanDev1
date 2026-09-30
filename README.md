@@ -6,6 +6,7 @@
 ⚡ Explorando Linux, Infra e DevOps  
 🚀 Sempre criando projetos e aprendendo algo novo  
 
+Python Lover
 
 ## 🐍 Contributions Snake
 
