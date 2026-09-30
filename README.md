@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Kauan
+# 👋 Hello, my name is Kauan.
 
-I am software enthusiast and a python lover 🐍.
+I am software enthusiast and a python lover.
 
 ## 🐍 Contributions Snake
 
@@ -8,7 +8,7 @@ I am software enthusiast and a python lover 🐍.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![Website](https://img.shields.io/badge/Website-kauan.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kauan.online)
 
