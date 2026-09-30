@@ -2,6 +2,9 @@
 
 I am a brazilian software enthusiast and a python lover.
 
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,html,css&perline=3)](https://skillicons.dev)
+
 ## 🐍 Contributions Snake
 
 ![snake gif](https://github.com/KauanDev1/KauanDev1/blob/output/github-snake-dark.svg)
