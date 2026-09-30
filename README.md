@@ -1,12 +1,6 @@
 # 👋 Olá, eu sou o Kauan
 
-💻 Desenvolvedor de Software  
-🌐 Apaixonado por tecnologia, redes e infraestrutura  
-🐍 Estudando de tudo.  
-⚡ Explorando Linux, Infra e DevOps  
-🚀 Sempre criando projetos e aprendendo algo novo  
-
-Python Lover
+I am software enthusiast and a python lover 🐍.
 
 ## 🐍 Contributions Snake
 
