@@ -13,4 +13,4 @@ I am a brazilian software enthusiast and a python lover.
 
 ## 📫 Contact
 
-<div align="center"> [![Website](https://img.shields.io/badge/Website-kauan.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kauan.online) &emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Storto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kauan-turcato-storto-134237278) &emsp;   [![Email](https://img.shields.io/badge/Email-kauanturcato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanturcato@gmail.com) </div>
+<div> [![Website](https://img.shields.io/badge/Website-kauan.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kauan.online) &emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Storto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kauan-turcato-storto-134237278) &emsp;   [![Email](https://img.shields.io/badge/Email-kauanturcato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanturcato@gmail.com) </div>
